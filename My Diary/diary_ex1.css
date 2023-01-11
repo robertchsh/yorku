@@ -1,0 +1,33 @@
+.content {
+	border-style:solid;
+	border-color:blue;
+	border-width:2px;
+}
+header{
+	border-style:solid;
+	border-color:green;
+	border-width:2px;
+}
+
+article {
+	border-style:solid;
+	border-color:lime;
+	border-width:2px;
+}
+span.author{
+	border-style:solid;
+	border-color:cyan;
+	border-width:2px;
+}
+p {
+	border-style:solid;
+	border-color:grey;
+	border-width:2px;
+}
+	
+footer{
+	
+	border-style:solid;
+	border-color:magenta;
+	border-width:2px;
+}
